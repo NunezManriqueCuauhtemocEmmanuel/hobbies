@@ -20,6 +20,9 @@ body{
     text-align: center;
     color: rgb(97, 176, 255);
 }
+.int:hover{
+    color: #fff;
+}
 .main{
     width: 100%;
     background: rgb(103, 153, 194);
