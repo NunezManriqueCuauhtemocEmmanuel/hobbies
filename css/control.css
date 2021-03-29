@@ -26,6 +26,9 @@ body{
     color: #fff;
     text-decoration: none;
 }
+.main li a:hover{
+    color: rgb(0, 0, 0)
+}
 .titulo{
     padding: 5px;
     text-align: center;
