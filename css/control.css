@@ -7,6 +7,25 @@ body{
     background: url(../img/fondo.jpg);
     background-attachment: fixed;
 }
+.main{
+    width: 100%;
+    background: rgb(103, 153, 194);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+    
+.main li{
+        display: inline-block;
+}
+    
+.main li a{
+    padding: 10px 20px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+}
 .titulo{
     padding: 5px;
     text-align: center;
