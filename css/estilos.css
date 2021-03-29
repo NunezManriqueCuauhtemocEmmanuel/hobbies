@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'hi';
+    src: url(../fuentes/Stjldbl1.ttf);
+}
+#late{
+    font-family: 'hi';
+    font-size: 48px;
+}
+#subtitle{
+    font-family: 'hi';
+    font-size: 24px;
+}
