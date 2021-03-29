@@ -57,6 +57,14 @@ body{
 .jedi:hover{
     color: rgb(78, 255, 101);
 }
+.jedim{
+    padding: 10px;
+    width: 550px;
+    color: white;
+}
+.jedim:hover{
+    color: rgb(161, 78, 255);
+}
 .sith{
     padding: 10px;
     width: 550px;
