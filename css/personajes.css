@@ -57,6 +57,14 @@ body{
 .jedi:hover{
     color: rgb(78, 255, 101);
 }
+.sith{
+    padding: 10px;
+    width: 550px;
+    color: white;
+}
+.sith:hover{
+    color: rgb(240, 47, 47);
+}
 .sub{
     padding: 10px;
     width: 550px;
@@ -64,6 +72,14 @@ body{
 }
 .sub:hover{
     color: rgb(112, 204, 241);
+}
+.uhh{
+    padding: 10px;
+    width: 550px;
+    color: white;
+}
+.uhh:hover{
+    color: rgb(226, 35, 35);
 }
 img{
     width: 300px;
