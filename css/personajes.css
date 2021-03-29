@@ -1,0 +1,44 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+
+body{
+    background: url(../img/fondo.jpg);
+    background-attachment: fixed;
+}
+.titulo{
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+.titulo:hover{
+    color: rgb(255, 202, 58);
+}
+.int{
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(97, 176, 255);
+}
+.main{
+    width: 100%;
+    background: rgb(103, 153, 194);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+    
+.main li{
+        display: inline-block;
+}
+    
+.main li a{
+    padding: 10px 20px;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+}
+.main li a:hover{
+    color: rgb(0, 0, 0)
+}
