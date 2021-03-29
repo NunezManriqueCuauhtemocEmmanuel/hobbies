@@ -34,8 +34,6 @@ body{
 }
 .sub:hover{
     color: rgb(241, 196, 112);
-    background: rgb(41, 41, 41);
-    background-repeat: no-repeat;
 }
 img{
     width: 300px;
