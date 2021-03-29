@@ -1,0 +1,22 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+
+body{
+    background: url(../img/fondo.jpg);
+    background-attachment: fixed;
+}
+.titulo{
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+.titulo:hover{
+    color: rgb(255, 202, 58);
+}
+.int{
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(97, 176, 255);
+}
